@@ -1,0 +1,10 @@
+*.csv
+# Output folders
+outputs/
+results/
+git status
+exit
+exit()
+
+exit()
+exit
